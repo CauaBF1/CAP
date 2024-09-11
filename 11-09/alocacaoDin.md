@@ -153,7 +153,7 @@ int main(int argc, char *argv[])
 
   printf("\n");
   printf("Valores originais:\n");
-  printf("O valor de a = %d\n", *pa);
+  printf("O valor de a = %d\n", *pa);	
   printf("O valor de b = %d\n\n", *pb);
   
   // Troca de valores (i.e. swap)
